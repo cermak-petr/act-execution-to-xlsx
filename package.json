@@ -1,0 +1,16 @@
+{ 
+  "name": "execution-to-xlsx",
+  "version": "1.0.0",
+  "description": "Apify act for converting crawler execution results to XLSX",
+  "main": "main.js",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cermak-petr/act-execution-to-xlsx"
+  },
+  "dependencies": {
+    "apify": "latest",
+    "bluebird": "latest",
+    "underscore": "latest"
+  }
+}
