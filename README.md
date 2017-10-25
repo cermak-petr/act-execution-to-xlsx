@@ -10,7 +10,7 @@ This can also be used from a crawler finish webhook.
 
 You can obtain the resulting XLSX URL from default OUTPUT value where it is stored as follows:
 ```javascript
-{output: "result XLSX URL"}
+{output: RESULT_XLSX_URL}
 ```
 
 The URL is also outputted in the log.
